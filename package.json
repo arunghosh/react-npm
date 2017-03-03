@@ -1,6 +1,6 @@
 {
   "name": "ag-test",
-  "version": "0.3.2",
+  "version": "1.3.2",
   "description": "React webpack starter template",
   "main": "lib/app.js",
   "dependencies": {},
