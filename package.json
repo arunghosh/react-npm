@@ -1,5 +1,5 @@
 {
-  "name": "react-webpack-starter",
+  "name": "ag-test",
   "version": "0.3.2",
   "description": "React webpack starter template",
   "main": "lib/index.js",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:krasimir/react-webpack-starter.git"
+    "url": "https://github.com/arunghosh/react-npm.git"
   },
   "scripts": {
     "dev": "./node_modules/.bin/webpack --watch --inline",
