@@ -1,9 +1,16 @@
 
-import React from 'react';
+function add(a, b) {
+  return a + b;
+}
 
-export default function () {
-  return (
-    <div>This is a test</div>
-  );
+// import React from 'react';
+//
+// export default function () {
+//   return (
+//     <div>This is a test</div>
+//   );
+// };
+//
+export default {
+  add
 };
-
