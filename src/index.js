@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Component from './Component';
 
-window.onload = () => {
-  ReactDOM.render(
-    <Component />,
-    document.querySelector('#container')
-  );
-};
+
+import default function () {
+  return (
+    <div>This is a test</div>
+  )
+}
