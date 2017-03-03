@@ -2,7 +2,7 @@
   "name": "ag-test",
   "version": "0.3.2",
   "description": "React webpack starter template",
-  "main": "lib/index.js",
+  "main": "lib/app.js",
   "dependencies": {},
   "author": {
     "name": "Krasimir Tsonev",
